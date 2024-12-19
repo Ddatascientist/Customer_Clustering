@@ -1,0 +1,134 @@
+Customer_ID,Last_purchase,Frequency,Monetary,Recency,Cluster_labels,Cluster_names_,monetary_in_thousandth
+101Am2Pm,2023-06-13,2,82420,507,1,Brk_new_Ground,0.8242
+116Tinua,2024-10-02,5,704000,30,0,Potential_Customers,7.04
+142Out o,2024-05-27,9,1014500,158,4,Low_spenders,10.145
+158Soton,2024-09-20,15,4504000,42,2,Re-engage,45.04
+164ADENU,2023-07-27,1,20000,463,1,Brk_new_Ground,0.2
+193Stron,2023-01-24,1,235500,647,1,Brk_new_Ground,2.355
+199Genev,2024-10-25,5,110000,7,0,Potential_Customers,1.1
+222Ansel,2024-10-23,11,4062600,9,2,Re-engage,40.626
+230Mano ,2024-05-23,4,216650,162,0,Potential_Customers,2.1665
+235Bless,2024-10-28,9,2960000,4,3,Special_order,29.6
+242Ebean,2024-08-22,4,1525000,71,3,Special_order,15.25
+243Bloss,2023-03-13,1,9000,599,1,Brk_new_Ground,0.09
+274ANUOL,2024-08-22,1,8000,71,0,Potential_Customers,0.08
+284Bukky,2024-05-21,1,10000,164,0,Potential_Customers,0.1
+293Ndifr,2023-06-06,1,15750,514,1,Brk_new_Ground,0.1575
+297Chidi,2023-07-12,3,11400,478,1,Brk_new_Ground,0.114
+300Ifean,2024-09-10,3,21800,52,0,Potential_Customers,0.218
+308Sonia,2024-10-05,1,58000,27,0,Potential_Customers,0.58
+315Marke,2024-01-29,3,214500,277,0,Potential_Customers,2.145
+319ManoN,2024-05-24,14,580420,161,4,Low_spenders,5.8042
+321Ebean,2024-07-25,7,1936600,99,3,Special_order,19.366
+321Togun,2024-10-21,8,4634250,11,2,Re-engage,46.3425
+327Child,2024-03-12,1,20000,234,0,Potential_Customers,0.2
+327Price,2024-10-04,6,1578000,28,3,Special_order,15.78
+334Henry,2024-09-19,10,1880600,43,3,Special_order,18.806
+336Swiss,2023-02-28,1,35200,612,1,Brk_new_Ground,0.352
+340Adesu,2024-03-28,1,36000,218,0,Potential_Customers,0.36
+356Kunbi,2024-05-21,1,20000,164,0,Potential_Customers,0.2
+360Olaju,2023-05-05,1,4500,546,1,Brk_new_Ground,0.045
+364Temil,2024-09-26,1,140000,36,0,Potential_Customers,1.4
+368Mano ,2024-01-22,1,54500,284,0,Potential_Customers,0.545
+378Ahmad,2024-09-14,1,44000,48,0,Potential_Customers,0.44
+399ronke,2023-12-13,1,13000,324,1,Brk_new_Ground,0.13
+410Ms Pe,2023-07-04,1,4800,486,1,Brk_new_Ground,0.048
+415Helen,2023-11-17,1,14300,350,1,Brk_new_Ground,0.143
+416Dr Fe,2024-07-10,1,14000,114,0,Potential_Customers,0.14
+420BuyMo,2024-01-22,1,150000,284,0,Potential_Customers,1.5
+426Buymo,2024-10-14,10,2213000,18,3,Special_order,22.13
+432Abiod,2023-12-16,8,357600,321,4,Low_spenders,3.576
+447Ebean,2024-09-19,11,855500,43,4,Low_spenders,8.555
+457Faith,2024-10-10,1,40000,22,0,Potential_Customers,0.4
+468Bayki,2023-10-25,7,320200,373,4,Low_spenders,3.202
+475Oyin,2023-08-05,1,2400,454,1,Brk_new_Ground,0.024
+482Ayalo,2023-11-23,7,780500,344,4,Low_spenders,7.805
+485Thomp,2023-02-27,2,250000,613,1,Brk_new_Ground,2.5
+506Shari,2024-10-28,1,185000,4,0,Potential_Customers,1.85
+511Style,2023-11-09,1,14300,358,1,Brk_new_Ground,0.143
+518Alhaj,2023-08-09,2,1104000,450,1,Brk_new_Ground,11.04
+521Grace,2024-10-24,3,228500,8,0,Potential_Customers,2.285
+535Omony,2024-06-20,1,20000,134,0,Potential_Customers,0.2
+539Oyind,2024-03-14,2,8000,232,0,Potential_Customers,0.08
+541Atalo,2023-09-27,4,148000,401,1,Brk_new_Ground,1.48
+544Ebele,2024-09-03,2,385400,59,0,Potential_Customers,3.854
+546Rasak,2023-09-09,3,8400,419,1,Brk_new_Ground,0.084
+550Buymo,2024-10-14,10,2153000,18,3,Special_order,21.53
+559Joyfe,2023-03-31,3,1204000,581,1,Brk_new_Ground,12.04
+571Rex O,2023-08-01,1,2400,458,1,Brk_new_Ground,0.024
+572Ade T,2023-04-22,1,155000,559,1,Brk_new_Ground,1.55
+585Sonia,2024-09-20,1,10000,42,0,Potential_Customers,0.1
+593EverI,2024-02-05,4,3300000,270,3,Special_order,33.0
+596Am2Pm,2024-01-25,5,412200,281,0,Potential_Customers,4.122
+612Jumai,2024-10-15,10,839850,17,4,Low_spenders,8.3985
+615YUSUF,2023-04-18,3,329200,563,1,Brk_new_Ground,3.292
+618Adesu,2023-08-14,3,103500,445,1,Brk_new_Ground,1.035
+622danie,2024-10-23,1,8000,9,0,Potential_Customers,0.08
+626adero,2023-09-27,1,15600,401,1,Brk_new_Ground,0.156
+627Ebean,2024-05-16,2,296000,169,0,Potential_Customers,2.96
+629Joan ,2024-03-06,1,10000,240,0,Potential_Customers,0.1
+629Mrs J,2023-12-20,1,10400,317,1,Brk_new_Ground,0.104
+636F Agb,2024-04-23,1,1110000,192,0,Potential_Customers,11.1
+650Chukw,2023-01-18,1,9000,653,1,Brk_new_Ground,0.09
+658Eseas,2023-12-06,13,2479650,331,4,Low_spenders,24.7965
+659Truma,2023-09-05,1,445000,423,1,Brk_new_Ground,4.45
+660DSL -,2023-02-16,1,56000,624,1,Brk_new_Ground,0.56
+662David,2024-10-04,8,2008500,28,3,Special_order,20.085
+662Gbonj,2024-07-16,2,40000,108,0,Potential_Customers,0.4
+698Marya,2024-10-11,2,190550,21,0,Potential_Customers,1.9055
+703Pasto,2024-08-03,1,4000,90,0,Potential_Customers,0.04
+720Olumi,2023-05-25,1,80000,526,1,Brk_new_Ground,0.8
+722Equip,2023-12-14,1,28600,323,1,Brk_new_Ground,0.286
+729NIKKY,2023-03-04,4,2119500,608,1,Brk_new_Ground,21.195
+730Rogba,2024-06-08,1,40000,146,0,Potential_Customers,0.4
+747Ebean,2024-05-16,1,380000,169,0,Potential_Customers,3.8
+748Omole,2024-08-15,1,20000,78,0,Potential_Customers,0.2
+750Ayiye,2024-05-22,1,92500,163,0,Potential_Customers,0.925
+764NSISO,2024-08-22,8,802500,71,4,Low_spenders,8.025
+771TajMa,2024-09-19,8,538200,43,4,Low_spenders,5.382
+773Chibu,2023-09-14,1,473500,414,1,Brk_new_Ground,4.735
+781Genes,2023-09-20,6,24600,408,1,Brk_new_Ground,0.246
+803Chiso,2024-01-08,1,9000,298,0,Potential_Customers,0.09
+805Okey ,2023-05-24,9,2802450,527,4,Low_spenders,28.0245
+814OreOl,2023-02-10,1,4500,630,1,Brk_new_Ground,0.045
+832Funke,2023-12-12,1,2600,325,1,Brk_new_Ground,0.026
+850Five ,2023-09-26,1,5200,402,1,Brk_new_Ground,0.052
+862Grace,2024-10-21,1,44000,11,0,Potential_Customers,0.44
+863Ndifr,2024-09-24,1,14000,38,0,Potential_Customers,0.14
+868Ignat,2024-10-21,3,35400,11,0,Potential_Customers,0.354
+871Rahil,2023-12-20,1,240000,317,1,Brk_new_Ground,2.4
+885Basil,2023-11-10,1,84500,357,1,Brk_new_Ground,0.845
+900Josep,2023-02-06,1,195000,634,1,Brk_new_Ground,1.95
+908Ella,2024-04-08,2,16500,207,0,Potential_Customers,0.165
+912Oluwa,2023-04-28,5,1067600,553,1,Brk_new_Ground,10.676
+919Owoch,2024-10-11,3,188500,21,0,Potential_Customers,1.885
+921Bimpe,2024-07-27,2,8000,97,0,Potential_Customers,0.08
+928Belov,2024-06-04,1,24000,150,0,Potential_Customers,0.24
+932Yetun,2024-04-05,3,20500,210,0,Potential_Customers,0.205
+962AUNT ,2023-12-05,14,1570740,332,4,Low_spenders,15.7074
+962Funmi,2023-05-22,1,13500,529,1,Brk_new_Ground,0.135
+978AM2PM,2024-01-31,2,127500,275,0,Potential_Customers,1.275
+179Yemsu,2024-10-30,91,67240010,2,7,Major_cust,672.4001
+205Iya A,2024-10-30,41,47610500,2,7,Major_cust,476.105
+208Mrs P,2024-10-31,42,16279005,1,7,Major_cust,162.79005
+230Adeol,2024-07-17,38,13524600,107,7,Major_cust,135.246
+422Mrs S,2024-10-26,56,27944050,6,7,Major_cust,279.4405
+434Abiod,2024-08-14,27,12821950,79,7,Major_cust,128.2195
+633Oluch,2024-10-25,121,87007285,7,7,Major_cust,870.07285
+657Yvonn,2024-10-31,64,41321000,1,7,Major_cust,413.21
+668Pauli,2024-10-18,126,89461935,14,7,Major_cust,894.61935
+736Sam I,2024-10-28,143,97858600,4,7,Major_cust,978.586
+757Prime,2024-09-10,28,15621400,52,7,Major_cust,156.214
+771Mr Ar,2024-04-18,25,9466200,197,7,Major_cust,94.662
+828Offic,2024-10-23,152,20374020,9,7,Major_cust,203.7402
+860EKERI,2023-12-22,28,9446650,315,7,Major_cust,94.4665
+106UGHUL,2024-09-05,16,5555200,57,5,Support,55.552
+1811st J,2023-09-22,19,13230350,406,5,Support,132.3035
+198CNGWo,2024-09-12,18,6627500,50,5,Support,66.275
+222Ngene,2024-01-22,21,8918350,284,5,Support,89.1835
+297Divin,2023-05-30,13,6813300,521,5,Support,68.133
+473FEL-F,2024-10-12,19,6275200,20,5,Support,62.752
+502Naben,2023-09-28,18,6686100,400,5,Support,66.861
+702Mk In,2024-10-28,15,13241850,4,5,Support,132.4185
+861Ayode,2024-10-15,10,11888000,17,5,Support,118.88
+771Kolap,2024-10-25,58,877370,7,6,Special_Offer,8.7737
