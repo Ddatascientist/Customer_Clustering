@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
+import streamlit as st
 
 import dash
 from dash import dcc, html, dash_table
@@ -32,12 +33,12 @@ def wrangle(filepath):
 
   return df
 
-df = wrangle('../Soyum_data.xlsx')
+df = wrangle('Soyum_data.xlsx')
 
-clustered_df = pd.read_csv('../clustered_df.csv')
+clustered_df = pd.read_csv('clustered_df.csv')
 
 app = dash.Dash(__name__)
-server = app.server
+# server = app.server
 app.layout = html.Div([
     html.H1('Soyummy Customer Segmentation Dashboard', style={
         'text-align': 'center', 'color': 'white'
@@ -204,4 +205,4 @@ def update_scatter_graph(v):
 
 from logging import debug
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True, port=8081)
